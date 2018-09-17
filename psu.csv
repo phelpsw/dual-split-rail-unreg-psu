@@ -1,0 +1,71 @@
+Source,/home/pwilliams/projects/psu/psu.sch
+Kicad Rev,Eeschema 4.0.2+dfsg1-stable
+Generated Date,Sat 17 Mar 2018 10:57:17 AM PDT
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+P1,CONN_01X02,conn,CONN_01X02
+C1,0.01uF/400V,device,C
+C4,0.01uF/400V,device,C
+R_L1,G5LE-1A,Relay,G5Q-1A
+D1,1N4004,device,D
+C_SR1,1uF/63V,device,C
+R_Z1,374Ω,device,R
+R_IR1,68Ω/5W,device,R
+P2,CONN_01X04,conn,CONN_01X04
+P4,CONN_01X04,conn,CONN_01X04
+U1,Bridge,device,D_Bridge_+-AA
+C_S11,0.1uF/250V,device,C
+C_S10,0.1uF/100V,device,C
+0.1uF1,C_S8,device,C
+R_S2,1Ω,device,R
+R_G1,100Ω,device,R
+C_S1,0.1uF/100V,device,C
+C_S4A1,20000uF/100V,device,C
+R_BLD2,2kΩ/5W,device,R
+R_S1,1Ω,device,R
+C_S7,0.1uF,device,C
+C_S6A1,1uF/100V,device,C
+C_S2,0.1uF/100V,device,C
+C_S3A1,20000uF/100V,device,C
+C_S3B1,20000uF/100V,device,C
+C_S4B1,20000uF/100V,device,C
+R_BLD4,2kΩ/5W,device,R
+R_BLD1,2kΩ/5W,device,R
+R_BLD3,2kΩ/5W,device,R
+C_S5A1,1uF/100V,device,C
+C_S5B1,1uF/100V,device,C
+C_S6B1,1uF/100V,device,C
+C_S12,0.1uF/250V,device,C
+C_S13,0.1uF/250V,device,C
+C_S14,0.1uF/250V,device,C
+C_S9,0.1uF/100V,device,C
+R_IR2,68Ω/5W,device,R
+R_IR3,68Ω/5W,device,R
+D_Z1,20V/2W,device,D_Zener
+D_ZB1,10V/1W,device,D_Zener
+D_ZA1,4.7V/1W,device,D_Zener
+D_ZC1,5.1V/0.5W,device,D_Zener
+R2,6.8kΩ,device,R
+R1,500Ω,device,R
+R3,205Ω,device,R
+Q_LED1,BC549,device,Q_NPN_BEC
+P3,CONN_01X04,conn,CONN_01X04
+P7,CONN_01X04,conn,CONN_01X04
+P8,CONN_01X02,conn,CONN_01X02
+R_L2,G2R-24-DC24,Relay,G5V-2
+R_BLD5,2kΩ/5W,device,R
+R_BLD6,2kΩ/5W,device,R
+D2,1N4004,device,D
+C_SR2,1uF/63V,device,C
+R_Z2,374Ω,device,R
+D_Z2,22V/2W,device,D_Zener
+R_BLD7,2kΩ/5W,device,R
+R_BLD8,2kΩ/5W,device,R
+D3,LED,device,LED
+P5,CONN_01X04,conn,CONN_01X04
+P6,CONN_01X04,conn,CONN_01X04
